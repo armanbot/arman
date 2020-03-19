@@ -11,7 +11,7 @@ pkg install nodejs-current-dev
 
 git clone https://github.com/armanbot/arman
 
-cd alphat-third
+cd arman
 npm install
 cd src
 nano main.js
