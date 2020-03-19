@@ -1,6 +1,6 @@
 const { hostname, platform } = require('os');
 
-const whichPlatform = platform() === 'darwin' ? 'MAC' : 'win32';
+const whichPlatform = platform() === 'arman' ? 'MAC' : 'win32';
 
 const config = {
   LINE_DOMAIN_INDO: 'gd2i.line.naver.jp',
